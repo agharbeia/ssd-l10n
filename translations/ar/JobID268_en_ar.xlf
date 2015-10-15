@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd">
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd">
  <file original="xliff-core-1.2-strict.xsd" source-language="en" target-language="ar" datatype="plaintext" date="2015-09-10T05:09:47Z">
   <header>
    <phase-group>
@@ -10,40 +10,14 @@
   <body>
    <group id="4370">
     <note>Seven Steps To Digital Security</note>
-    <trans-unit id="4370][body][0][value" resname="4370][body][0][value">
-     <source xml:lang="en"><bpt id="tjiid4370-1">&lt;p&gt;</bpt><![CDATA[Here are some basic tips to consider when thinking about your own digital security.]]><ept id="tjiid4370-1">&lt;/p&gt;</ept><![CDATA[
-
-]]></source>
-     <target xml:lang="ar"><bpt id="tjiid4370-3">&lt;p&gt;</bpt><![CDATA[فيما يلي بعض النصائح الأساسية التي يجب مراعاتها عند التفكير بأمنك الرقمي.]]><ept id="tjiid4370-3">&lt;/p&gt;</ept><![CDATA[
-
-]]></target>
-     <note>Body</note>
+    <trans-unit id="4370][body][0][value" resname="4370][body][0][value" approved="yes">
+     <source xml:lang="en"><bpt id="tjiid4370-1">&lt;p&gt;</bpt>Here are some basic tips to consider when thinking about your own digital security.<ept id="tjiid4370-1">&lt;/p&gt;</ept> </source> <target xml:lang="ar" state="signed-off"><bpt id="tjiid4370-3">&lt;p&gt;</bpt>إليك نصائح أساسية تجب مراعاتها عند التفكير بأمانك الرقمي.<ept id="tjiid4370-3">&lt;/p&gt;</ept> </target> <note>Body</note>
     </trans-unit>
-    <trans-unit id="4370][body][1][value" resname="4370][body][1][value">
-     <source xml:lang="en"><bpt id="tjiid4370-1">&lt;h2&gt;</bpt><![CDATA[Knowledge is Power]]><ept id="tjiid4370-1">&lt;/h2&gt;</ept><![CDATA[
-
-]]><bpt id="tjiid4370-3">&lt;p&gt;</bpt><![CDATA[Good security decisions can't be made without good information. Your security tradeoffs are only as good as the information you have about the value of your assets, the severity of the threats from different adversaries to those assets, and the risk of those attacks actually happening. This guide should help you gain the knowledge you need to identify the ]]><bpt id="tjiid4370-4">&lt;a href="https://ssd.eff.org/en/node/39/" target="_blank"&gt;</bpt><![CDATA[threats]]><ept id="tjiid4370-4">&lt;/a&gt;</ept><![CDATA[ to your computer and communications security, and judge the risk against possible security measures. And some of this knowledge you already have: knowledge of your own situation, who might want to target you, and what resources they have. You already have more power than you think!]]><ept id="tjiid4370-3">&lt;/p&gt;</ept><![CDATA[
-
-]]></source>
-     <target xml:lang="ar"><bpt id="tjiid4370-7">&lt;h2&gt;</bpt><![CDATA[العلم نور]]><ept id="tjiid4370-7">&lt;/h2&gt;</ept><![CDATA[
-
-]]><bpt id="tjiid4370-9">&lt;p&gt;</bpt><![CDATA[لا يمكن اتخاذ قرارات جيدة حول الأمن دون توافر معلومات جيدة. جودة تسوياتك الأمنية تعادل جودة المعلومات التي تملكها حول قيمة أصولك وفداحة التهديدات لها من قبل الخصوم المختلفين والخطر الفعلي لوقوع هجمات. سيساعدك هذا الدليل على اكتساب المعرفة التي تحتاجها لتحديد ]]><bpt id="tjiid4370-10">&lt;a href="https://ssd.eff.org/en/node/39/"&gt;</bpt><![CDATA[التهديدات]]><ept id="tjiid4370-10">&lt;/a&gt;</ept><![CDATA[ على كمبيوترك وأمن اتصالاتك، والحكم على المخاطر مقابل الإجراءات الأمنية الممكنة. ولكنك تملك الكثير من أهم المعلومات مسبقاً: معرفة وضعك الخاص، ومن قد يستهدفك، والموارد التي تملكها. أنت بالفعل أقوى مما تعتقد!]]><ept id="tjiid4370-9">&lt;/p&gt;</ept><![CDATA[
-
-]]></target>
-     <note>Body</note>
+    <trans-unit id="4370][body][1][value" resname="4370][body][1][value" approved="yes">
+     <source xml:lang="en"><bpt id="tjiid4370-1">&lt;h2&gt;</bpt>Knowledge is Power<ept id="tjiid4370-1">&lt;/h2&gt;</ept> <bpt id="tjiid4370-3">&lt;p&gt;</bpt>Good security decisions can't be made without good information. Your security tradeoffs are only as good as the information you have about the value of your assets, the severity of the threats from different adversaries to those assets, and the risk of those attacks actually happening. This guide should help you gain the knowledge you need to identify the <bpt id="tjiid4370-4">&lt;a href="https://ssd.eff.org/en/node/39/" target="_blank"&gt;</bpt>threats<ept id="tjiid4370-4">&lt;/a&gt;</ept> to your computer and communications security, and judge the risk against possible security measures. And some of this knowledge you already have: knowledge of your own situation, who might want to target you, and what resources they have. You already have more power than you think!<ept id="tjiid4370-3">&lt;/p&gt;</ept> </source> <target xml:lang="ar" state="signed-off">&lt;h2&gt;العلم نور&lt;/h2&gt; &lt;p&gt;لا يمكن اتخاذ قرارات جيدة متعلّقة بالأمان بغير معلومات جيدة. مواءماتك الأمنية تكون جيّدة بقدر جودة ما لديك من معلومات عن قيمة أصولك و فداحة التهديدات من قبل الخصوم المختلفين و أرجحية وقوع تلك الهجمات. سيساعدك هذا الدليل على اكتساب المعرفة التي تحتاجها للتعرّف على&lt;a href="https://ssd.eff.org/ar/node/39/"&gt;التهديدات&lt;/a&gt; الواقعة على حاسوبك و أمان اتصالاتك، و موازنة المخاطر بإجراءات التأمين الممكنة. بعض هذه المعرفة لديك بالفعل: معرفتك بوضعك الخاص، و من الذي قد يستهدفك، و ما الموارد المتاحة لهم. أنت بالفعل أقوى مما تعتقد!&lt;/p&gt; <bpt id="tjiid4370-7"/></target> <note>Body</note>
     </trans-unit>
     <trans-unit id="4370][body][2][value" resname="4370][body][2][value">
-     <source xml:lang="en"><bpt id="tjiid4370-1">&lt;h2&gt;</bpt><![CDATA[The Weakest Link]]><ept id="tjiid4370-1">&lt;/h2&gt;</ept><![CDATA[
-
-]]><bpt id="tjiid4370-3">&lt;p&gt;</bpt><![CDATA[Think about assets as components of the system in which they are used. The security of the asset depends on the strength of all the components in the system. The old adage that "a chain is only as strong as its weakest link" applies to security too: The system as a whole is only as strong as the weakest component. For example, the best door lock is of no use if you have cheap window latches. Encrypting your email so it won't get intercepted in transit won't protect the confidentiality of that email if you store an unencrypted copy on your laptop and your laptop is stolen. That doesn't mean you have to do everything simultaneously, but it does mean that you should spend time thinking about every part of your information and computer use.]]><ept id="tjiid4370-3">&lt;/p&gt;</ept><![CDATA[
-
-]]></source>
-     <target xml:lang="ar"><bpt id="tjiid4370-5">&lt;h2&gt;</bpt><![CDATA[الحلقة الأضعف]]><ept id="tjiid4370-5">&lt;/h2&gt;</ept><![CDATA[
-
-]]><bpt id="tjiid4370-7">&lt;p&gt;</bpt><![CDATA[فكر بالأصول على أنها مكونات في النظام الذي تُستخدم فيه. يعتمد أمن الأصول على قوة كل المكونات في النظام. ينطبق المثل "قوة السلسلة تقاس بقوة أضعف حلقاتها" على الأمن أيضاً؛ حيث أن النظام ككل تقاس قوته بقوة أضعف المكونات. مثلاً، لن يفيدك أفضل أقفال الأبواب إن كانت مزالج نافذتك رخيصة وضعيفة. تشفير رسائلك الإلكترونية كي لا يتم اعتراضها أثناء النقل لن يحمي سرية الرسالة في حال خزنت نسخة غير مشفرة على كمبيوترك المحمول ومن ثم تمت سرقته. وهذا لا يعني أن عليك أن تفعل كل شيء في آنٍ معاً، لكنه يعني أنه يجب عليك قضاء بعض الوقت في التفكير بكل جزء من معلوماتك واستخدامك للكمبيوتر.]]><ept id="tjiid4370-7">&lt;/p&gt;</ept><![CDATA[
-
-]]></target>
-     <note>Body</note>
+     <source xml:lang="en"><bpt id="tjiid4370-1">&lt;h2&gt;</bpt>The Weakest Link<ept id="tjiid4370-1">&lt;/h2&gt;</ept> <bpt id="tjiid4370-3">&lt;p&gt;</bpt>Think about assets as components of the system in which they are used. The security of the asset depends on the strength of all the components in the system. The old adage that "a chain is only as strong as its weakest link" applies to security too: The system as a whole is only as strong as the weakest component. For example, the best door lock is of no use if you have cheap window latches. Encrypting your email so it won't get intercepted in transit won't protect the confidentiality of that email if you store an unencrypted copy on your laptop and your laptop is stolen. That doesn't mean you have to do everything simultaneously, but it does mean that you should spend time thinking about every part of your information and computer use.<ept id="tjiid4370-3">&lt;/p&gt;</ept> </source> <target xml:lang="ar"><bpt id="tjiid4370-5">&lt;h2&gt;</bpt>الحلقة الأضعف<ept id="tjiid4370-5">&lt;/h2&gt;</ept> <bpt id="tjiid4370-7">&lt;p&gt;</bpt>انظر إلى الأصول على أنها مكونات في النظام الذي تُستخدم فيه. يعتمد أمن الأصول على قوة كل مكونات النظام. تنطبق هنا مقولة "قوة السلسلة بقوة أضعف حلقاتها" على الأمن أيضًا؛ إذ أن النظام في مجمله قوّته تعادل قوة أضعف مكوناته. مثلاً، لن يفيدك أفضل أقفال الأبواب إذا كان مزلاج نافذتك ضعيفا. تعمية رسائل بريدك الإلكتروني لأجل ألا تُعترض أثناء انتقالها لن يحمي سرية الرسالة إذا حفظت نسخة منها غير مُعمّاة على حاسوبك المحمول ثم سُرِق. هذا لا يعني أن عليك فعل كل شيء في آنٍ، لكنه يعني أنه عليك قضاء وقت في التفكّر في كل جانب من معلوماتك واستخدامك للحواسيب.<ept id="tjiid4370-7">&lt;/p&gt;</ept> </target> <note>Body</note>
     </trans-unit>
     <trans-unit id="4370][body][3][value" resname="4370][body][3][value">
      <source xml:lang="en"><bpt id="tjiid4370-1">&lt;h2&gt;</bpt><![CDATA[Simpler is Safer and Easier]]><ept id="tjiid4370-1">&lt;/h2&gt;</ept><![CDATA[
@@ -53,7 +27,7 @@
 ]]></source>
      <target xml:lang="ar"><bpt id="tjiid4370-5">&lt;h2&gt;</bpt><![CDATA[الأبسط أأمن وأسهل]]><ept id="tjiid4370-5">&lt;/h2&gt;</ept><![CDATA[
 
-]]><bpt id="tjiid4370-7">&lt;p&gt;</bpt><![CDATA[عادة ما تكون حماية أضعف مكونات النظام الذي تستخدم فيه الأصول قمة الأهمية والفعالية من حيث التكلفة. وبما أن المكونات الضعيفة يسهل تحديدها وفهمها في النظم البسيطة، يتوجب عليك أن تقلل من عدد وتعقيد المكونات في أنظمة المعلومات الخاصة بك. تؤدي قلة المكونات إلى الحد من عدد التفاعلات بين المكونات، وذلك مصدر آخر للتعقيد والتكلفة والخطر. وهذا قد يعني أن أكثر الحلول أماناً قد يكون أقلها تقنية. أجهزة الكمبيوتر رائعة للكثير من الأشياء، ولكن أحياناً تكون المسائل الأمنية المتعلقة بالقلم والورقة أسهل للفهم، وبالتالي أسهل من حيث التعامل معها.]]><ept id="tjiid4370-7">&lt;/p&gt;</ept><![CDATA[
+]]><bpt id="tjiid4370-7">&lt;p&gt;</bpt><![CDATA[عادة يكون أهم ما يمكن فعله و الأكثر جدوى من حيث التكلفة هو حماية أضعف مكونات النظام الذي تستخدم فيه الأصول. و بما أن المكونات الضعيفة يسهل تحديدها و فهمها في النظم البسيطة فيتوجب عليك تقليل عدد و تعقيد المكونات في نظمك المعلوماتية. تقليل عدد المكونات يفيد كذلك في تقليل عدد التفاعلات بين المكونات، و هذا من مصادر التعقيد و التكلفة و الخطر. هذا يعني أن آمن الحلول قد يكون أقلها تقنية. الحواسيب مفيدة في الكثير من الأغراض لكن أحياناً تكون التبعات الأمنية لاستعمال القلم و الورقة أسهل فهما و أسهل من حيث التعامل معها.]]><ept id="tjiid4370-7">&lt;/p&gt;</ept><![CDATA[
 
 ]]></target>
      <note>Body</note>
@@ -64,9 +38,9 @@
 ]]><bpt id="tjiid4370-3">&lt;p&gt;</bpt><![CDATA[Don't assume that the most expensive security solution is the best; especially if it takes away resources needed elsewhere. Low-cost measures like shredding trash before leaving it on the curb can give you lots of bang for your security buck.]]><ept id="tjiid4370-3">&lt;/p&gt;</ept><![CDATA[
 
 ]]></source>
-     <target xml:lang="ar"><bpt id="tjiid4370-5">&lt;h2&gt;</bpt><![CDATA[التكلفة الأغلى لا تعني أماناً أعلى]]><ept id="tjiid4370-5">&lt;/h2&gt;</ept><![CDATA[
+     <target xml:lang="ar"><bpt id="tjiid4370-5">&lt;h2&gt;</bpt><![CDATA[الأغلى ليس الآمَن]]><ept id="tjiid4370-5">&lt;/h2&gt;</ept><![CDATA[
 
-]]><bpt id="tjiid4370-7">&lt;p&gt;</bpt><![CDATA[لا تفترض أن الحلول الأمنية الأغلى ثمناً هي الأفضل؛ خاصة إذا كانت ستسهلك موارد لازمة في مكان آخر. تقدم التدابير منخفضة التكلفة مثل فرم الأوراق قبل رميها قيمة عالية من الأمان مقارنة بالتكلفة.]]><ept id="tjiid4370-7">&lt;/p&gt;</ept><![CDATA[
+]]><bpt id="tjiid4370-7">&lt;p&gt;</bpt><![CDATA[لا تفترض كون الحلول الأمنية الأغلى ثمنًا هي الأفضل؛ خاصة إذا كانت ستسهلك مواردا تلزم في موضع آخر. التدابير الرخصية مثل فرم الأوراق قبل رميها لها مردود عال من الأمان مقابل المال.]]><ept id="tjiid4370-7">&lt;/p&gt;</ept><![CDATA[
 
 ]]></target>
      <note>Body</note>
@@ -77,9 +51,9 @@
 ]]><bpt id="tjiid4370-5">&lt;p&gt;</bpt><![CDATA[Computer security advice can end up sounding like you should trust absolutely no one but yourself. In the real world, you almost certainly trust plenty of people with at least ]]><bpt id="tjiid4370-6">&lt;em&gt;</bpt><![CDATA[some]]><ept id="tjiid4370-6">&lt;/em&gt;</ept><![CDATA[ of your information, from your close family or companion to your doctor or lawyer.  What's tricky in the digital space is understanding who you are trusting, and with what. You might deposit a list of passwords with your lawyers: but you should think about what power that might give them—or how easily they might be maliciously attacked. You might write documents in a cloud service like Dropbox or Microsoft OneDrive that are only for you: but you're also letting Dropbox and Microsoft access them, too. Online or offline, the fewer people you share a secret with, the better chance you have of keeping it secret.]]><ept id="tjiid4370-5">&lt;/p&gt;</ept><![CDATA[
 
 ]]></source>
-     <target xml:lang="ar"><bpt id="tjiid4370-9">&lt;h2&gt;</bpt><![CDATA[لا بأس بالثقة ]]><bpt id="tjiid4370-10">&lt;em&gt;</bpt><![CDATA[بشخصٍ ما]]><ept id="tjiid4370-10">&lt;/em&gt;</ept><![CDATA[ (ولكن دوما اعرف بمن تثق)]]><ept id="tjiid4370-9">&lt;/h2&gt;</ept><![CDATA[
+     <target xml:lang="ar"><bpt id="tjiid4370-9">&lt;h2&gt;</bpt><![CDATA[لا بأس بالثقة ]]><bpt id="tjiid4370-10">&lt;em&gt;</bpt><![CDATA[بشخصٍ ما]]><ept id="tjiid4370-10">&lt;/em&gt;</ept><![CDATA[ (لكن دوما اعرف بمن تثق)]]><ept id="tjiid4370-9">&lt;/h2&gt;</ept><![CDATA[
 
-]]><bpt id="tjiid4370-13">&lt;p&gt;</bpt><![CDATA[قد تبدو نصائح أمن الكمبيوتر وكأنه يتوجب عليك ألا تثق بأحد سواك مطلقاً. في العالم الحقيقي، من شبه المؤكد أنه يتوجب عليك الثقة بالكثير من الأشخاص ]]><bpt id="tjiid4370-14">&lt;em&gt;</bpt><![CDATA[ببعض]]><ept id="tjiid4370-14">&lt;/em&gt;</ept><![CDATA[ معلوماتك على الأقل، من أفراد عائلتك المقربين أو أصحابك إلى طبيبك أو محاميك. ولكن في الفضاء الرقمي يصعب فهم بمن تثق وبماذا. قد تودع قائمة من كلمات السر الخاصة بك مع المحامين: ولكن يجب أن تفكر في النفوذ الذي يوفره لهم ذلك - أو بمدى سهولة تعرضهم لهجمات خبيثة. قد تخزن المستندات في خدمة سحابية خاصة بك مثل Dropbox أو مايكروسوفت OneDrive، ولكنك تسمح لـDropbox ومايكروسوفت بالوصول إليها أيضاً. على الإنترنت أو خارجها، كلما شاركت السر مع عدد أقل من الأشخاص، كلما تحسنت فرصة بقائه سراً.]]><ept id="tjiid4370-13">&lt;/p&gt;</ept><![CDATA[
+]]><bpt id="tjiid4370-13">&lt;p&gt;</bpt><![CDATA[نصائح أمن الحواسيب قد توحي بأنه يتوجب عليك ألا تثق بغيرك مطلقًا. في العالم الحقيقي من المؤكد أنك تثق في كثير من الأشخاص على  ]]><bpt id="tjiid4370-14">&lt;em&gt;</bpt><![CDATA[بعض]]><ept id="tjiid4370-14">&lt;/em&gt;</ept><![CDATA[ معلوماتك على الأقل، من أفراد عائلتك المقربين أو أصحابك إلى طبيبك أو محاميك. المربك في الفضاء الرقمي هو فهم بمن تثق و بمَ. قد تودع قائمة كلمات سرٍّ مع محاميك: لكن ينبغي عليك التفكير في النفوذ الذي يمنحه ذلك إياهم - أو بدرجة سهولة تعرضهم لهجمات خبيثة. قد تحفظ المستندات في خدمة سحابية تخصّك مثل Dropbox أو ميكروسوفت OneDrive، لكنّك تسمح لكل من Dropbox و ميكروسوفت بالنفاذ إليها أيضًا. في الإنترنت و خارجها، كلما تشاركت السِّرَّ مع عدد أقل من الأشخاص، زادت فرصة بقائه سرًا.]]><ept id="tjiid4370-13">&lt;/p&gt;</ept><![CDATA[
 
 ]]></target>
      <note>Body</note>
@@ -90,9 +64,9 @@
 ]]><bpt id="tjiid4370-3">&lt;p&gt;</bpt><![CDATA[Set security policies that are reasonable for your lifestyle, for the risks you face, and for the implementation steps you and your colleagues will take. A perfect security policy on paper won't work if it's too difficult to follow day-to-day.]]><ept id="tjiid4370-3">&lt;/p&gt;</ept><![CDATA[
 
 ]]></source>
-     <target xml:lang="ar"><bpt id="tjiid4370-5">&lt;h2&gt;</bpt><![CDATA[الأمن الكامل غير ممكن؛ هناك دائماً تسويات ومفاضلات]]><ept id="tjiid4370-5">&lt;/h2&gt;</ept><![CDATA[
+     <target xml:lang="ar"><bpt id="tjiid4370-5">&lt;h2&gt;</bpt><![CDATA[الأمن الكامل غير ممكن؛ الممكن داومًا مواءمات]]><ept id="tjiid4370-5">&lt;/h2&gt;</ept><![CDATA[
 
-]]><bpt id="tjiid4370-7">&lt;p&gt;</bpt><![CDATA[ضع سياسات أمنية متلائمة مع نمط حياتك والمخاطر التي تواجهها وخطوات التطبيق التي ستتخذها ويتخذها زملاؤك أيضاً. أي سياسة أمن مثالية على الورق لن تعمل إن كان يصعب تطبيقها بشكل يومي.]]><ept id="tjiid4370-7">&lt;/p&gt;</ept><![CDATA[
+]]><bpt id="tjiid4370-7">&lt;p&gt;</bpt><![CDATA[ضع سياسات أمنية تلائم نمط حياتك، و المخاطر التي تواجهها، و خطوات التطبيق التي ستتخذها و يتخذها زملاؤك. أي سياسة أمن مثالية على الورق لن تعمل إن كان يصعب تطبيقها يوميا.]]><ept id="tjiid4370-7">&lt;/p&gt;</ept><![CDATA[
 
 ]]></target>
      <note>Body</note>
@@ -102,15 +76,15 @@
 
 ]]><bpt id="tjiid4370-3">&lt;p&gt;</bpt><![CDATA[It is also crucially important to continually re-evaluate your security practices. Just because they were secure last year or last week doesn't mean they're still secure! Keep checking sites like SSD, because we will update our advice to reflect changes in our understanding and the realities of digital security. Security is never a one-off act: it's a process.]]><ept id="tjiid4370-3">&lt;/p&gt;</ept><![CDATA[
 ]]></source>
-     <target xml:lang="ar"><bpt id="tjiid4370-5">&lt;h2&gt;</bpt><![CDATA[ما هو آمن اليوم قد لا يكون آمناً غداً]]><ept id="tjiid4370-5">&lt;/h2&gt;</ept><![CDATA[
+     <target xml:lang="ar"><bpt id="tjiid4370-5">&lt;h2&gt;</bpt><![CDATA[ما هو آمن اليوم قد لا يكون آمنًا غدًا]]><ept id="tjiid4370-5">&lt;/h2&gt;</ept><![CDATA[
 
-]]><bpt id="tjiid4370-7">&lt;p&gt;</bpt><![CDATA[كما أن إعادة تقييم ممارساتك الأمنية بشكل مستمر أمر بغاية الأهمية. لمجرد كونها آمنة في العام الماضي أو الأسبوع الماضي، لا يعني أنها لا تزال آمنة الآن! تفقد المواقع مثل "الدفاع عن النفس بمواجهة الرقابة" بشكل مستمر، لأننا سنحدّث نصائحنا مع تطور وتغير معرفتنا وواقع الأمن الرقمي. الأمن ليس شيئاً تقوم به مرة واحدة: إنه عملية مستمرة.]]><ept id="tjiid4370-7">&lt;/p&gt;</ept><![CDATA[
+]]><bpt id="tjiid4370-7">&lt;p&gt;</bpt><![CDATA[إعادة تقييم ممارساتك الأمنية باستمرار أمر في غاية الأهمية. لمجرد أن كانت آمنة العام الماضي أو الأسبوع الماضي لا يعني كونها لا تزال آمنة الآن! عاود الرجوع إلى مواقع مثل "الدفاع عن النفس ضد المراقبة" دوريا، لأننا سنحدّث نصائحنا لتعكس التطوّر في معرفتنا و واقع الأمان الرقمي. الأمن ليس فعلا تفعله مرة واحدة: إنه صيرورة.]]><ept id="tjiid4370-7">&lt;/p&gt;</ept><![CDATA[
 ]]></target>
      <note>Body</note>
     </trans-unit>
     <trans-unit id="4370][title_field][0][value" resname="4370][title_field][0][value">
      <source xml:lang="en"><![CDATA[Seven Steps To Digital Security]]></source>
-     <target xml:lang="ar"><![CDATA[سبع خطوات للأمن الرقمي]]></target>
+     <target xml:lang="ar"><![CDATA[سبع خطوات للأمان الرقمي]]></target>
      <note>Title</note>
     </trans-unit>
    </group>
@@ -128,15 +102,15 @@
 ]]><bpt id="tjiid4371-21">&lt;p&gt;</bpt><![CDATA[If you’re using an SSD or a USB flash drive, you can ]]><bpt id="tjiid4371-22">&lt;a href="#Anchor 1"&gt;</bpt><![CDATA[jump to the section below]]><ept id="tjiid4371-22">&lt;/a&gt;</ept><![CDATA[.]]><ept id="tjiid4371-21">&lt;/p&gt;</ept><![CDATA[
 
 ]]></source>
-     <target xml:lang="ar"><bpt id="tjiid4371-25">&lt;p&gt;</bpt><![CDATA[يعتقد معظمنا أنه يتم حذف ملف من جهاز الكمبيوتر بمجرد وضعه في سلة المهملات ومن ثم إفراغها؛ بينما في الواقع حذف الملف لا يمسحه بشكل كامل. عند القيام بذلك، يجعل الكمبيوتر الملف غير مرئي للمستخدم ويعلم موقعه على القرص على أنه "متوفر"؛ هذا يعني أن ]]><bpt id="tjiid4371-26">&lt;strong&gt;</bpt><![CDATA[نظام التشغيل]]><ept id="tjiid4371-26">&lt;/strong&gt;</ept><![CDATA[ يمكنه الآن كتابة بيانات جديدة فوق الملف. وبالتالي قد تمر أسابيع أو حتى أشهر أو سنوات قبل الكتابة فوق ذلك الملف بملف جديد. وحتى يحدث ذلك سيبقى الملف "المحذوف" على جهازك؛ لكنه فقط غير مرئي للعمليات العادية. وبقليل من الجهد وباستخدام الأدوات المناسبة (مثل برمجيات استعادة الملفات المحذوفة أو أساليب التحليل الجنائي)، لا يزال بإمكانك استعادة الملف "المحذوف". خلاصة القول هي أن أجهزة الكمبيوتر عادة لا "تحذف" الملفات؛ هي فقط تسمح للمساحة التي يحتلها الملف أن يتم الكتابة فوقها بشيء آخر جديد في المستقبل.]]><ept id="tjiid4371-25">&lt;/p&gt;</ept><![CDATA[
+     <target xml:lang="ar"><bpt id="tjiid4371-25">&lt;p&gt;</bpt><![CDATA[يظنّ أغلبنا أن الملف يحذف من الحاسوب بمجرد وضعه في سلة المهملات ثم إفراغها؛ بينما في الواقع حذف الملف لا يمحوه نهائيا. عند فعل ذلك يخفي الحاسوب الملف عن المستخدم و يعلّم موضعه على وسيط التخزين على أنه "شاغر"؛ و هو ما يعني أن ]]><bpt id="tjiid4371-26">&lt;strong&gt;</bpt><![CDATA[نظام التشغيل]]><ept id="tjiid4371-26">&lt;/strong&gt;</ept><![CDATA[ يمكنه الآن كتابة بيانات جديدة في ذلك الموقع. لذا قد تمر أسابيع أو حتى أشهر أو سنوات قبل أن ينكتب فعليا ملف جديد في الموضع الذي كان يشفله ذلك الملف. و إلى حين حدوث ذلك سيبقى الملف "المحذوف" على وسيط التخزين؛ لكنه غير مرئي للعمليات العادية. و ببعض الجهد و باستخدام الأدوات المناسبة (مثل برمجيات استعادة الملفات المحذوفة أو أساليب التحليل الجنائي) يكون بالإمكان استعادة الملف "المحذوف". خلاصة القول  أن أجهزة الحاسوب عادة لا "تحذف" الملفات؛ هي و حسب تسمح للمساحة التي يشغلها ملف أن يُكتب فوقها شيء آخر في المستقبل.]]><ept id="tjiid4371-25">&lt;/p&gt;</ept><![CDATA[
 
-]]><bpt id="tjiid4371-29">&lt;p&gt;</bpt><![CDATA[أفضل طريقة للتخلص من ملف ما للأبد هي ضمان أن يُكتَب فوقه فوراً، بطريقة تجعل من الصعب استرجاع ما كان مكتوباً هناك. على الأغلب يحتوي نظام التشغيل الذي تستخدمه برمجيات يمكنها أن تقوم بذلك؛ برنامج يمكنه كتابة بيانات عشوائية فوق المساحة "الفارغة" على القرص وبالتالي يحمي سرية البيانات المحذوفة.]]><ept id="tjiid4371-29">&lt;/p&gt;</ept><![CDATA[
+]]><bpt id="tjiid4371-29">&lt;p&gt;</bpt><![CDATA[أفضل طريقة لحذف ملف ما للأبد هي ضمان أن يُكتَب فوقه فوراً بأسلوب يصعّب استرجاع ما كان مكتوباً. على الأغلب يضمّ نظام التشغيل الذي تستخدمه برمجيات يمكنها فعل بذلك؛ برنامج يمكنه كتابة بيانات عشوائية فوق المساحة "الشاغرة" على القرص فيحفظ سرية البيانات المحذوفة.]]><ept id="tjiid4371-29">&lt;/p&gt;</ept><![CDATA[
 
-]]><bpt id="tjiid4371-31">&lt;p&gt;</bpt><![CDATA[لاحظ أن حذف البيانات بشكل آمن من ]]><bpt id="tjiid4371-32">&lt;strong&gt;</bpt><![CDATA[سواقات الحالة الصلبة ]]><ept id="tjiid4371-32">&lt;/strong&gt;</ept><![CDATA[SSD أو سواقات الفلاش USB وبطاقات الذاكرة SD صعبٌ جداً! تنطبق التعليمات التالية فقط على سواقات الأقراص التقليدية HDD وليس على سواقات SSD، والتي تصبح المعيار في أجهزة اللابتوب (الكمبيوتر المحمول) الحديثة، ولا على ذواكر الفلاش USB أو بطاقات الذاكرة الفلاش أو بطاقات الذاكرة SD.]]><ept id="tjiid4371-31">&lt;/p&gt;</ept><![CDATA[
+]]><bpt id="tjiid4371-31">&lt;p&gt;</bpt><![CDATA[لاحظ أن المحو الآمن للبيانات من ]]><bpt id="tjiid4371-32">&lt;strong&gt;</bpt><![CDATA[سواقات الحالة الصلبة ]]><ept id="tjiid4371-32">&lt;/strong&gt;</ept><![CDATA[SSD أو ذواكر الفلاش USB و بطاقات ذواكر SD صعبٌ للغاية! التعليمات التالية تنطبق فحسب على سواقات الأقراص التقليدية HDD لا على سواقات SSD التي يتزايد كونها المعتمدة في الحواسيب المحمولة الحديثة، و لا على ذواكر USB و لا بطاقات ذاكرة الفلاش أو بطاقات الذاكرة SD.]]><ept id="tjiid4371-31">&lt;/p&gt;</ept><![CDATA[
 
-]]><bpt id="tjiid4371-35">&lt;p&gt;</bpt><![CDATA[وهذا لأن ذلك النوع من السواقات يستخدم تقنية تدعى "توزيع التلف" ]]><bpt id="tjiid4371-36">&lt;a href="https://en.wikipedia.org/wiki/Wear_leveling" target="_blank"&gt;</bpt><![CDATA[wear leveling]]><ept id="tjiid4371-36">&lt;/a&gt;</ept><![CDATA[. (]]><bpt id="tjiid4371-38">&lt;a href="http://arstechnica.com/security/2011/03/ask-ars-how-can-i-safely-erase-the-data-from-my-ssd-drive/" target="_blank"&gt;</bpt><![CDATA[يمكنك قراءة المزيد حول لماذا يسبب هذا مشاكل للحذف الآمن هنا]]><ept id="tjiid4371-38">&lt;/a&gt;</ept><![CDATA[).]]><ept id="tjiid4371-35">&lt;/p&gt;</ept><![CDATA[
+]]><bpt id="tjiid4371-35">&lt;p&gt;</bpt><![CDATA[هذا لأن ذلك النوع من السواقات تطبّق تقنية تدعى "معادلة البلى" ]]><bpt id="tjiid4371-36">&lt;a href="https://en.wikipedia.org/wiki/Wear_leveling" target="_blank"&gt;</bpt><![CDATA[wear leveling]]><ept id="tjiid4371-36">&lt;/a&gt;</ept><![CDATA[. (]]><bpt id="tjiid4371-38">&lt;a href="http://arstechnica.com/security/2011/03/ask-ars-how-can-i-safely-erase-the-data-from-my-ssd-drive/" target="_blank"&gt;</bpt><![CDATA[يوجد المزيد حول لِمَ يعيق ذلك المحو الآمن هنا (بالإنكليزية)]]><ept id="tjiid4371-38">&lt;/a&gt;</ept><![CDATA[).]]><ept id="tjiid4371-35">&lt;/p&gt;</ept><![CDATA[
 
-]]><bpt id="tjiid4371-41">&lt;p&gt;</bpt><![CDATA[إذا كنت تستخدم SSD أو سواقة فلاش USB، يمكنك الانتقال إلى]]><bpt id="tjiid4371-42">&lt;a href="#Anchor 1"&gt;</bpt><![CDATA[ القسم الخاص بها أدناه]]><ept id="tjiid4371-42">&lt;/a&gt;</ept><![CDATA[.]]><ept id="tjiid4371-41">&lt;/p&gt;</ept><![CDATA[
+]]><bpt id="tjiid4371-41">&lt;p&gt;</bpt><![CDATA[إذا كنت تستخدم SSD أو سواقة فلاش USB فيمكنك الانتقال إلى]]><bpt id="tjiid4371-42">&lt;a href="#Anchor 1"&gt;</bpt><![CDATA[ القسم الخاص بها أدناه]]><ept id="tjiid4371-42">&lt;/a&gt;</ept><![CDATA[.]]><ept id="tjiid4371-41">&lt;/p&gt;</ept><![CDATA[
 
 ]]></target>
      <note>Body</note>
